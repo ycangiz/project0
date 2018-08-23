@@ -6,14 +6,8 @@
 - State each design pattern used (if any)
 - Brief (< 5 sentences) description of your overall design
 
-## PERCENT COMPLETE:
-- How much of the project you believe you have completed
-
-## PARTS THAT ARE NOT COMPLETE:
+## KNOWN BUGS AND INCOMPLETE PARTS:
 - What parts of the project you were not able to complete
-
-## BUGS:
-- Known bugs
 
 ## REFERENCES:
 - List any outside resources used
@@ -137,6 +131,16 @@ What if you have a problem with your code? That's what we are here for, and Gith
     * project0.py
 
 :no_entry: Every project will have a required submission guidelines. Please read submission requirements carefully. Any deviations from specifications on future projects will result in point deductions or incomplete grades.
+
+## README
+
+You should have notice that part of this readme file has four sections titled:
+* DESIGN OVERVIEW
+* KNOWN BUGS AND INCOMPLETE PARTS
+* REFERENCES
+* MISCELLANEOUS COMMENTS
+
+Before your final submission, edit the content for each of these sections in this README for your project. You do not have to use markdown, but you can find out more about markdown [here](https://guides.github.com/features/mastering-markdown/) if you would like to.
 
 ### Git
 
